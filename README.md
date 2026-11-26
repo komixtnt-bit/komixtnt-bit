@@ -1,6 +1,6 @@
-# 💫 About Me
 Hi 👋, I'm **Камиль**  
-IT-специалист с 10+ лет опыта. Использую вайпкодинг-подход к разработке: создаю быстрые, эстетичные и функциональные цифровые решения.
+
+
 
 ## 🌐 Socials
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:komixtnt@gmail.com) 
